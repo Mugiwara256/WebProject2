@@ -1,6 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
 @media(max-width:510px){
     *{
         margin: 0;
         font-family: sans-serif;
+        box-sizing: border-box;
+        padding: 0;
+        font-family: "Megrim", system-ui;
+        font-weight: 700;
+        font-style: normal;
+    }
+    .inheader{
+        display: none;
+    }
+    .inheaderphone{
+        display: block;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        /* background-color: antiquewhite; */
+        width: 90%;
+    }
+    .section1 {
+        width: 100%;
+        height: auto;
+        margin-top: 30px;
+    }
+
+    .insection1 {
+        width: 100%;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .part1inSection1 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: start;
+        padding: 0 10px;
+    }
+
+    .pAlways {
+        width: 100%;
+        font-size: 24px;
+        line-height: 32px;
+        text-align: start;
+    }
+
+    .pABetter {
+        width: 100%;
+        line-height: 25px;
+        margin-bottom: 30px;
+        text-align: start;
+    }
+
+    .emailAndButton {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        align-items: stretch;
+    }
+
+    .input1 {
+        width: 100%;
+        padding: 12px;
+        font-size: 16px;
+    }
+
+    .button3 {
+        width: 100%;
+        padding: 12px;
+        font-size: 16px;
+    }
+
+    .payBox {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 30px;
+    }
+
+    .imagePay1,
+    .imagePay2,
+    .imagePay3 {
+        width: 60px;
+    }
+
+    .part2inSection1 {
+        width: 100%;
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .imageIllustration {
+        width: 90%;
+        max-width: 300px;
+        height: auto;
     }
 }
