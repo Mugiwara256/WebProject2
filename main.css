@@ -150,3 +150,67 @@ header{
 .imageIllustration{
     width: 100%;
 }
+.section2{
+    width: 100%;
+    height: 580px;
+    margin-top: 150px;
+}
+.insection2{
+    width: 90%;
+    margin: auto;
+    height: 100%;
+    /* background-color: pink; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.part1inSection2{
+    width: 35%;
+    height: 100%;
+    /* background-color: aqua; */
+}
+.part2inSection2{
+    width: 55%;
+    /* background-color: aqua; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.imageIllustration2{
+    width: 100%;
+    height: auto;
+}
+.btnAboutUs{
+    padding: 10px;
+    font-size: 12px;
+    background-color: rgba(0, 255, 255, 0);
+    width: 100px;
+}
+.btnAboutUs:hover{
+    background-color: blanchedalmond;
+    cursor: pointer;
+}
+.pFaster{
+    font-size: 60px;
+    font-weight: 1200;
+    width: 100%;
+}
+.pAdd{
+    width: 85%;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.imageAndDot{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+.DotImage{
+    width: 30px;
+}
+.pShared{
+    font-size: 20px;
+}

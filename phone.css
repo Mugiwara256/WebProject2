@@ -100,4 +100,76 @@
         max-width: 300px;
         height: auto;
     }
+    .section2 {
+        width: 100%;
+        height: auto;
+        margin-top: 80px;
+    }
+
+    .insection2 {
+        width: 95%;
+        margin: auto;
+        height: auto;
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        /* background-color: pink; */
+    }
+
+    .part1inSection2 {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .imageIllustration2 {
+        width: 90%;
+        max-width: 300px;
+        height: auto;
+    }
+
+    .part2inSection2 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .btnAboutUs {
+        width: 100px;
+        font-size: 14px;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+    .pFaster {
+        width: 100%;
+        font-size: 30px;
+        line-height: 36px;
+        font-weight: 1200;
+        margin-bottom: 20px;
+    }
+
+    .pAdd {
+        width: 100%;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .imageAndDot {
+        flex-direction: row;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 15px;
+    }
+
+    .DotImage {
+            width: 20px;
+        }
+
+    .pShared {
+        font-size: 16px;
+    }
 }
