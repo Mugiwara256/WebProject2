@@ -281,3 +281,132 @@ header{
     margin-top: 50px;
     gap: 30px;
 }
+.section4{
+    width: 100%;
+    height: 550px;
+    /* background-color: pink; */
+    margin-top: 100px;
+}
+.imsection4{
+    width: 90%;
+    margin: auto;
+    height: 100%;
+    /* background-color: pink; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.part1inSection4{
+    width: 30%;
+    height: 100%;
+    /* background-color: aqua; */
+}
+.part2inSection4{
+    width: 55%;
+}
+.btnPricing{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-bottom: 10px;
+}
+.imagePig{
+    width: 100%;
+}
+.pselect{
+    text-align: end;
+    margin-bottom: 40px;
+}
+.pPriceText{
+    text-align: end;
+    font-size: 20px;
+}
+.part1inSection4{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.section5{
+    width: 100%;
+    height: 650px;
+}
+.insection5{
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.card1{
+    width: 28% ;
+    height: 100%;
+    /* background-color: aqua; */
+    padding: 3%;
+    border: 1px solid grey;
+}
+.card2{
+    width: 30% ;
+    height: 100%;
+    /* background-color: aqua; */
+    padding: 3%;
+    border: 1px solid grey;
+    background-color: black;
+    color: white;
+}
+.incard1{
+    display: flex;
+    align-items: center;
+    /* background-color: pink; */
+    gap: 10px;
+}
+.incard2{
+    display: flex;
+    align-items: center;
+    /* background-color: pink; */
+    gap: 10px;
+}
+.pDollar{
+    font-size: 30px;
+    font-weight: 700;
+    align-self: flex-start;
+}
+.p49{
+    font-size: 80px;
+    font-weight: 700;
+}
+.pPerMonth{
+    font-size: 20px;
+    font-weight: 700;
+    align-self: flex-end;
+}
+.DotAndText{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 40px;
+}
+.pTheMac{
+    font-size: 20px;
+}
+.pAPayOnce{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.btnJoin{
+    font-size: 20px;
+    padding: 20px;
+    width: 100%;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+}
+.btnJoin2{
+    font-size: 20px;
+    padding: 20px;
+    width: 100%;
+    margin-top: 100px;
+    background-color: white;
+    color: black;
+}

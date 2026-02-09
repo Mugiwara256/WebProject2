@@ -243,5 +243,101 @@
     width: 100%;
     margin-bottom: 0px;
 }
+.section4 {
+    width: 100%;
+    height: auto;
+    margin-top: 80px;
+}
+
+.imsection4 {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+.part1inSection4 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.imagePig {
+    width: 90%;
+    max-width: 300px;
+}
+
+.part2inSection4 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.btnPricing {
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.pselect {
+    text-align: start;
+    margin-bottom: 25px;
+}
+
+.pPriceText {
+    text-align: start;
+    font-size: 16px;
+}
+.section5 {
+    width: 100%;
+    height: auto;
+    margin-top: 80px;
+}
+
+.insection5 {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.card1,
+.card2 {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+.pPerMonth{
+    display: none;
+}
+.p49 {
+    font-size: 56px;
+}
+
+.pAPayOnce {
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.DotAndText {
+    margin-top: 20px;
+    gap: 12px;
+}
+
+.pTheMac {
+    font-size: 16px;
+}
+
+.btnJoin,
+.btnJoin2 {
+    margin-top: 40px;
+    padding: 15px;
+    font-size: 18px;
+}
+
 
 }
