@@ -338,6 +338,79 @@
     padding: 15px;
     font-size: 18px;
 }
+.section6 {
+    width: 100%;
+    height: auto;
+    margin-top: 80px;
+}
+
+.insection6 {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.part1inSection6 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.pCommonQue {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pTheOnline {
+    width: 100%;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 30px;
+}
+
+.pHowMuch {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.pCont {
+    width: 100%;
+    font-size: 15px;
+    line-height: 22px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.DivMinus {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.pDoI {
+    font-size: 16px;
+    padding: 10px 0;
+}
+
+.pMinus {
+    width: 24px;
+}
+
+.part2inSection6 {
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.imgGiraf {
+    width: 90%;
+    max-width: 300px;
+    margin-top: 0;
+}
 
 
 }
