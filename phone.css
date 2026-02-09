@@ -411,6 +411,38 @@
     max-width: 300px;
     margin-top: 0;
 }
+footer {
+    height: auto;
+    padding: 40px 0;
+}
 
+.infooter {
+    width: 95%;
+    flex-direction: column;
+    align-items: flex-start;
+}
 
+.part1infooter {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.DivDesign18 {
+    margin-top: auto;
+    padding-top: 30px;
+}
+
+.part2infooter {
+    width: 100%;
+    margin-top: 40px;
+    flex-direction: column;
+    gap: 20px;
+}
+.SocialDiv{
+    gap: 10px;
+}
+.socialImage{
+    width: 45px;
+}
 }
